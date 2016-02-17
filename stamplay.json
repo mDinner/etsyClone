@@ -1,0 +1,10 @@
+{
+  "appId": "angets",
+  "apiKey": "e91fccf0ba0ef1ad357db988a75d3042692ea9901bd1196bf554360d44ae24bd",
+  "public": "./",
+  "ignore": [
+    "stamplay.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
